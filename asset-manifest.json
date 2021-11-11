@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mobile-day-3/static/css/main.81494453.chunk.css",
+    "main.js": "/mobile-day-3/static/js/main.bde99c68.chunk.js",
+    "main.js.map": "/mobile-day-3/static/js/main.bde99c68.chunk.js.map",
+    "runtime-main.js": "/mobile-day-3/static/js/runtime-main.e36af955.js",
+    "runtime-main.js.map": "/mobile-day-3/static/js/runtime-main.e36af955.js.map",
+    "static/js/2.e38cd51e.chunk.js": "/mobile-day-3/static/js/2.e38cd51e.chunk.js",
+    "static/js/2.e38cd51e.chunk.js.map": "/mobile-day-3/static/js/2.e38cd51e.chunk.js.map",
+    "static/js/3.10f01bee.chunk.js": "/mobile-day-3/static/js/3.10f01bee.chunk.js",
+    "static/js/3.10f01bee.chunk.js.map": "/mobile-day-3/static/js/3.10f01bee.chunk.js.map",
+    "index.html": "/mobile-day-3/index.html",
+    "static/css/main.81494453.chunk.css.map": "/mobile-day-3/static/css/main.81494453.chunk.css.map",
+    "static/js/2.e38cd51e.chunk.js.LICENSE.txt": "/mobile-day-3/static/js/2.e38cd51e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e36af955.js",
+    "static/js/2.e38cd51e.chunk.js",
+    "static/css/main.81494453.chunk.css",
+    "static/js/main.bde99c68.chunk.js"
+  ]
+}
